@@ -2,12 +2,12 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="127.78782mm"
+   height="30mm"
+   viewBox="0 0 127.78782 30"
    version="1.1"
    id="svg1"
-   sodipodi:docname="kapitan_maciek.svg"
+   sodipodi:docname="maciek.svg"
    inkscape:version="1.3.2 (091e20e, 2023-11-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,8 +24,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="1.1638775"
-     inkscape:cx="292.12696"
-     inkscape:cy="86.778892"
+     inkscape:cx="253.4631"
+     inkscape:cy="-24.916712"
      inkscape:window-width="1728"
      inkscape:window-height="1051"
      inkscape:window-x="0"
@@ -38,19 +38,20 @@
        x="267.36218"
        y="322.23129"
        width="29.928602"
-       height="96.270338"
+       height="96.27034"
        id="rect2" />
     <rect
-       x="499.42613"
-       y="784.81249"
-       width="361.48939"
-       height="404.29734"
+       x="499.42612"
+       y="784.8125"
+       width="361.48938"
+       height="404.29733"
        id="rect1" />
   </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-10.116621,-29.587109)">
     <text
        xml:space="preserve"
        style="font-size:4.58611px;letter-spacing:0.132292px;word-spacing:0.0238125px;fill:#000000;stroke-width:0.264583"
@@ -66,17 +67,6 @@
            dy="0 0"
            id="tspan6"
            style="font-size:4.58611px;letter-spacing:0.132292px;word-spacing:0.0238125px;stroke-width:0.264583">REJS KAPITAŃSKI JSM MAĆKA</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:4.5861px;line-height:0;letter-spacing:0.132292px;word-spacing:0.0238125px;fill:#000000;stroke-width:0.264583"
-       x="87.618088"
-       y="51.911098"
-       id="text7"><tspan
-         sodipodi:role="line"
-         id="tspan7"
-         style="stroke-width:0.264583"
-         x="87.618088"
-         y="51.911098">SZYPER</tspan></text>
     <g
        id="g42-1"
        transform="matrix(0.06574185,0,0,0.06574185,10.116482,29.587546)">
